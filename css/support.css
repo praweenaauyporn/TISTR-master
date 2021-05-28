@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a.navbar-brand {
+  padding-left: 5rem;
+}
+input[type="text1"] {
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+}
+.form-group {
+  text-align: center;
+  margin-top: 2rem;
+}
+.form-lo {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+}
+.form-row {
+  width: 50%;
+  margin: 0;
+}
+.col {
+  padding: 1rem;
+}
+input[type="text"] {
+  padding: 1rem;
+  margin-top: 5px;
+  font-family: "TH Sarabun New";
+}
+textarea {
+  display: block;
+  padding: 1rem;
+  margin-top: 5px;
+  font-family: "TH Sarabun New";
+}
+input[type="submit"] {
+  padding: 1rem;
+  margin-top: 5px;
+  width: 100%;
+  font-size: 14px;
+}
+.lo-table {
+  margin: 5px;
+}
+.table .thead-test th {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #a1c5ec;
+  border-radius: 10px;
+}
+.search {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
